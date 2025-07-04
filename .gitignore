@@ -1,0 +1,91 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+dist/
+build/
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+logs
+*.log
+log.txt
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# REPL history
+.node_repl_history
+
+# IDEs and editors
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Mac system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# React build output
+/build
+/.next
+/out
+
+# Vite build output
+/dist
+
+# Parcel build output
+.cache/
+
+# Testing
+/coverage
+
+# TypeScript
+*.tsbuildinfo
+
+# Others
+*.tgz
+*.log
+
+# Local env files
+.env.*
+
+# Firebase cache
+.firebase/
+
+# Docker files
+docker-compose.override.yml
+
+# GitHub Codespaces
+.devcontainer/
+
+# VS Code settings
+.vscode/*
+
+# yarn v2
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
+.pnp.*
