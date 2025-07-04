@@ -81,7 +81,6 @@ Notes/
 ✅ Split **Frontend and Backend** tech stacks for clarity  
 ✅ Kept a clean and professional layout
 
-Let me know if you want to add a **demo GIF section** or **API documentation table** for your upcoming portfolio polish tomorrow.
 
 ```
 
