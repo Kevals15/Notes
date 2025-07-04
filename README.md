@@ -44,6 +44,13 @@ npm install
 npm run dev
 ```
 
+### **.env file**
+```bash
+PORT=
+CORS_ORIGIN=
+MONGODB_URI=
+```
+
 ### 💻 **Frontend**
 ```bash
 cd frontend
@@ -64,24 +71,14 @@ Notes/
 💡 Future Improvements
 - Add user authentication (JWT)
 
-- Deploy on Vercel and Railway
+- Deploy on Render
 
 - Use MongoDB or PostgreSQL for persistent storage
 
 - Dark mode toggle
 
-```
 
 
----
+##
 
-### ✨ **Changes Summary**
-
-✅ Added **Axios, Lucide, React Hot Toast** icons  
-✅ Split **Frontend and Backend** tech stacks for clarity  
-✅ Kept a clean and professional layout
-
-
-```
-
-⭐ If you like this project, give it a star!
+⭐ **If you like this project, give it a star!**
