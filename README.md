@@ -58,14 +58,6 @@ npm install
 npm run dev
 ```
 
-### 📂 **Project Structure**
-Notes/
-
-├── backend/        # Express.js API
-│   └── ...
-├── frontend/       # React.js client
-│   └── ...
-└── README.md
 
 
 💡 Future Improvements
